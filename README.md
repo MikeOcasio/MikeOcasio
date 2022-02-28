@@ -47,8 +47,10 @@
 ## What I've Spent Time Working On:
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   4 hrs 40 mins   ████████████████████████▒   97.77 % 
-CSS          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+JavaScript   3 hrs 47 mins   █████████████████████████   99.99 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
+
 <!--END_SECTION:waka-->

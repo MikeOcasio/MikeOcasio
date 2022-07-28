@@ -50,11 +50,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript        3 hrs 16 mins   ███████████▓░░░░░░░░░░░░░   46.58 %
-Ruby              1 hr 53 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
-Python            1 hr 27 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
-Protocol Buffer   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Other             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Python            2 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   36.15 %
+JavaScript        1 hr 46 mins    ███████░░░░░░░░░░░░░░░░░░   28.55 %
+Ruby              1 hr 46 mins    ███████░░░░░░░░░░░░░░░░░░   28.48 %
+Protocol Buffer   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Other             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->

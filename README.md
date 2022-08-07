@@ -50,10 +50,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Ruby              1 hr 36 mins    █████████░░░░░░░░░░░░░░░░   36.07 %
-Protocol Buffer   1 hr 29 mins    ████████▒░░░░░░░░░░░░░░░░   33.42 %
-Python            1 hr 5 mins     ██████░░░░░░░░░░░░░░░░░░░   24.48 %
-Other             15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Protocol Buffer   2 hrs 28 mins   ███████████▒░░░░░░░░░░░░░   45.00 %
+Ruby              1 hr 41 mins    ███████▓░░░░░░░░░░░░░░░░░   30.64 %
+Python            1 hr 3 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
+Other             16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 ```
 
 <!--END_SECTION:waka-->

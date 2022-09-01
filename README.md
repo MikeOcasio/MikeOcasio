@@ -26,10 +26,14 @@
 ![REACTjs](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=Ruby)
+![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=Postgresql)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 

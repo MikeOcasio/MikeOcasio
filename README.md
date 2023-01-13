@@ -61,8 +61,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   33 mins         ████████████████████████░   95.51 %
-Ruby         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+JavaScript   16 mins         ███████████████████████▒░   93.35 %
+Ruby         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
 ```
 
 <!--END_SECTION:waka-->

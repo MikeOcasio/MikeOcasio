@@ -44,14 +44,7 @@
   </div>
 <br>
 
-<a href="https://github.com/MikeOcasio/MikeOcasio" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeOcasio&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
 
-
-<a href="https://github.com/MikeOcasio/MikeOcasio" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MikeOcasio&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mikes GitHub Stats" />
-</a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MikeOcasio&theme=dark&background=1d1f21)](https://git.io/streak-stats)
  
@@ -67,3 +60,8 @@ Python       3 mins          ██░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<div id="footer" >
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"/>
+</div>
+

@@ -54,10 +54,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         2 hrs 45 mins   █████████████████▒░░░░░░░   69.92 %
-JavaScript   59 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.18 %
-Git Config   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Ruby         3 hrs 8 mins    ██████████████████████▓░░   90.62 %
+Git Config   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+JavaScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
 ```
 
 <!--END_SECTION:waka-->

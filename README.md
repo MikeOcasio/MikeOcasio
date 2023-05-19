@@ -54,9 +54,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         3 hrs 8 mins    ██████████████████████▓░░   90.62 %
-Git Config   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-JavaScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Ruby         3 hrs 12 mins   ███████████████████████▓░   94.69 %
+Git Config   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 ```
 
 <!--END_SECTION:waka-->

@@ -54,11 +54,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby                       3 hrs 45 mins   ████████████████████▓░░░░   82.98 %
-YAML                       26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-Nginx configuration file   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-JavaScript                 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-ERB                        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Ruby   1 hr 37 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

@@ -54,7 +54,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby   1 hr 39 mins    █████████████████████████   100.00 %
+Ruby    1 hr 39 mins    ██████████████████████▓░░   90.48 %
+Other   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
 ```
 
 <!--END_SECTION:waka-->

@@ -54,11 +54,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby                       1 hr 40 mins    █████████████████░░░░░░░░   67.53 %
-JavaScript                 45 mins         ███████▓░░░░░░░░░░░░░░░░░   30.76 %
-YAML                       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Assembly                   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Ruby                       1 hr 51 mins    █████████████████▒░░░░░░░   69.83 %
+JavaScript                 45 mins         ███████░░░░░░░░░░░░░░░░░░   28.58 %
+YAML                       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Assembly                   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->

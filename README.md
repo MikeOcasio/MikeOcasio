@@ -54,7 +54,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby   3 mins          █████████████████████████   100.00 %
+Ruby                       14 mins         ███████████████████████▓░   95.14 %
+Nginx configuration file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Other                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->

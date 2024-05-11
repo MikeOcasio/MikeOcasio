@@ -49,7 +49,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MikeOcasio&theme=dark&background=1d1f21)](https://git.io/streak-stats)
  
 
-## What I've Spent Time Working On:
+## What I've Spent Time Working On Today:
 
 <!--START_SECTION:waka-->
 

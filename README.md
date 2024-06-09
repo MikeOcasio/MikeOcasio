@@ -54,10 +54,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby                       31 mins         ███████████████░░░░░░░░░░   60.19 %
-Python                     20 mins         ██████████░░░░░░░░░░░░░░░   39.71 %
-Other                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Ruby     28 mins         ████████████▓░░░░░░░░░░░░   50.36 %
+Python   27 mins         ████████████▒░░░░░░░░░░░░   49.64 %
 ```
 
 <!--END_SECTION:waka-->

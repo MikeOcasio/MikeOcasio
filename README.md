@@ -54,8 +54,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby     28 mins         ████████████▓░░░░░░░░░░░░   50.29 %
-Python   27 mins         ████████████▒░░░░░░░░░░░░   49.71 %
+Python   28 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

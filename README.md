@@ -54,9 +54,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         7 hrs 13 mins   ████████████████████████░   95.77 %
-JavaScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Ruby   6 hrs 29 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

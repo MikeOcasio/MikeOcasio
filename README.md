@@ -54,10 +54,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python            2 hrs 41 mins   ████████████████████░░░░░   80.22 %
-Ruby              29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
-JavaScript        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python            3 hrs 45 mins   ████████████████████▓░░░░   83.17 %
+Ruby              29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+JavaScript        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Protocol Buffer   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->

@@ -54,8 +54,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python            1 hr 4 mins     ███████████████████████░░   91.63 %
-Protocol Buffer   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+Python   23 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

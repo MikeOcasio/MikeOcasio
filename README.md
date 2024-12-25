@@ -53,9 +53,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         49 mins         █████████████████████▒░░░   85.48 %
-JavaScript   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-YAML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

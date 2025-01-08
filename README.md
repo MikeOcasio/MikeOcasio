@@ -43,9 +43,45 @@
   </div>
 <br>
 
+## 🚀 About Me
+I'm Mike Ocasio, a passionate backend developer with a flair for writing efficient, scalable code. I love crafting solutions using **Ruby on Rails**, building engaging UIs with **React**, and optimizing performance with **PostgreSQL**.
 
+---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MikeOcasio&theme=dark&background=1d1f21)](https://git.io/streak-stats)
+### 🔧 What I Do Best
+
+#### **Ruby on Rails**
+- Built an **invoicing lifecycle module** that optimized performance and conducted robust testing with **RSpec**.
+- Refactored to eliminate **N+1 queries**, reducing load times by over **70%**.
+- Designed a **Cron job system** that cut background job run times from **1 hour** to **5-10 minutes**.
+- Boosted test coverage from **0%** to **65%** using RSpec.
+- Migrated data processes from **SQL Server** to **PostgreSQL**, ensuring data integrity.
+
+#### **JavaScript / React**
+- Developed a new **React-based UI** from **Figma designs**, modernizing the web experience.
+- Resolved complex **calculation logic** for cost and expense displays.
+- Created reusable React components to streamline **dashboard data import/export**.
+- Increased Jest test coverage from **0%** to **70%**.
+
+#### **Python**
+- Enhanced a **gRPC interface** for efficient microservice communication.
+- Integrated **machine learning models** into existing systems.
+
+#### **SQL**
+- Designed and maintained stored procedures for **PostgreSQL** and **SQL Server**.
+- Improved performance with **custom indexing** and data validation.
+
+---
+
+### 🛠️ Frequently Used Tech
+**Rails, Rspec, GraphQL, gRPC, Capistrano, Node.js, Docker, AWS**
+
+---
+
+### 🌟 Sometimes I Touch
+**Next.js, .NET, Nginx, jQuery**
+
+---
  
 
 ## What I've Spent Time Working On Today:

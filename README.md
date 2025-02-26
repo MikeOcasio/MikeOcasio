@@ -90,7 +90,8 @@ I'm Mike Ocasio, a passionate backend developer with a flair for writing efficie
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby   5 mins          █████████████████████████   100.00 %
+Ruby   14 mins         █████████████████████████   99.64 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->

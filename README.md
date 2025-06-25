@@ -90,11 +90,11 @@ I'm Mike Ocasio, a passionate backend developer with a flair for writing efficie
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby            11 hrs 1 min    ██████████▓░░░░░░░░░░░░░░   42.41 %
-PHP             5 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
-YAML            2 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-Markdown        1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-JavaScript      1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Ruby            12 hrs 4 mins   █████████████▓░░░░░░░░░░░   54.78 %
+YAML            2 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+PHP             2 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+Markdown        1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+JavaScript      1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
 ```
 
 <!--END_SECTION:waka-->

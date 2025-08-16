@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 </div>
 
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/michael-ocasio/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,71 +17,87 @@
 </div>
 
 <h1 align="center">
-  Hey There! I'm Mike Ocasio!
+  Hey There! I'm Mike Ocasio! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h1>
 
 <br>
-  <div style="display:flex;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=Ruby&logoColor=red">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-339939?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Postgresql-20235A?style=for-the-badge&logo=postgresql&logoColor=blue">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Mui-3776AB?style=for-the-badge&logo=mui&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 
-  </div>
-<br>
+<div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+  <img src="https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+</div>
+
+---
 
 ## 🚀 About Me
-I'm Mike Ocasio, a passionate backend developer with a flair for writing efficient, scalable code. I love crafting solutions using **Ruby on Rails**, building engaging UIs with **React**, and optimizing performance with **PostgreSQL**.
+I’m a backend-heavy developer who loves building **scalable systems** with **Ruby on Rails**, experimenting with **Prisma + Next.js**, and making databases fly with **PostgreSQL**.  
+I’ve got a mix of professional experience leading engineering teams and personal projects where I get to explore ideas from scratch.  
 
 ---
 
-### 🔧 What I Do Best
+### 🔧 What I’ve Been Up To
 
-#### **Ruby on Rails**
-- Built an **invoicing lifecycle module** that optimized performance and conducted robust testing with **RSpec**.
-- Refactored to eliminate **N+1 queries**, reducing load times by over **70%**.
-- Designed a **Cron job system** that cut background job run times from **1 hour** to **5-10 minutes**.
-- Boosted test coverage from **0%** to **65%** using RSpec.
-- Migrated data processes from **SQL Server** to **PostgreSQL**, ensuring data integrity.
+#### **Loghatch (Personal Project)**
+I built **Loghatch** because I wanted a better way to log and share biological research — like tracking ants, insects, or anything you want to study.  
+It’s not just another iNaturalist clone — it’s flexible, personal, and community-driven:  
 
-#### **JavaScript / React**
-- Developed a new **React-based UI** from **Figma designs**, modernizing the web experience.
-- Resolved complex **calculation logic** for cost and expense displays.
-- Created reusable React components to streamline **dashboard data import/export**.
-- Increased Jest test coverage from **0%** to **70%**.
+- Custom logbooks & templates that fit *your* research style  
+- Timeline view for tracking entries over time  
+- Collaboration: invite contributors, comment, and build logbooks together  
+- Privacy control: public or private logs  
+- Tags, media, and rich fields so you capture all the details  
 
-#### **Python**
-- Enhanced a **gRPC interface** for efficient microservice communication.
-- Integrated **machine learning models** into existing systems.
+**Why Prisma?**  
+This project gave me the chance to really dive into **Prisma**. I use it to:  
+- Define and evolve schemas quickly with **migrations**  
+- Keep complex queries readable and type-safe in **TypeScript**  
+- Batch queries and avoid N+1 issues that can creep in with GraphQL APIs  
+- Experiment with performance optimizations on **PostgreSQL**  
 
-#### **SQL**
-- Designed and maintained stored procedures for **PostgreSQL** and **SQL Server**.
-- Improved performance with **custom indexing** and data validation.
+The stack: **Next.js + Prisma + Node.js + PostgreSQL**.  
 
 ---
 
-### 🛠️ Frequently Used Tech
-**Rails, Rspec, GraphQL, gRPC, Capistrano, Node.js, Docker, AWS**
+#### **Professional Work**
+- At **The Veteran Lending Team (Founding Engineer)**, I guide six dev teams, set up security + dev standards, and make sure our Rails + Next.js stack scales as we grow.  
+- At **Apple Fritter Technologies**, I lead client projects — designing systems, mentoring devs, and delivering custom Rails/React/GraphQL apps.  
+- Previously at **Southern States Toyotalift**, I optimized large Rails apps, slashed query times, and helped run enterprise-scale dealer systems.  
 
 ---
 
-### 🌟 Sometimes I Touch
-**Next.js, .NET, Nginx, jQuery**
+### 🛠️ My Current Toolbox
+**Rails, Prisma, Next.js, PostgreSQL, GraphQL, RSpec, Node.js, Docker, AWS**  
 
 ---
+
+### 🌟 Sometimes I Play With
+**Go, .NET, Nginx, jQuery, Python, gRPC**  
+
+---
+
+### ⚡ Fun Fact
+I’m a veteran (US Army 🚛 Wheeled Vehicle Technician), and I bring that discipline + systems thinking into how I code and lead teams.  
+
+---
+
+If you’re curious about **Loghatch**, check it out — it’s still early, but it’s the project I’m most excited about.  
+Otherwise, you’ll probably find me deep in Rails engines or experimenting with Prisma queries.  
+
  
 
 ## What I've Spent Time Working On Today:

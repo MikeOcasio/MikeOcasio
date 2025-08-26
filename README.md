@@ -105,11 +105,11 @@ Otherwise, you’ll probably find me deep in Rails engines or experimenting with
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         14 hrs 14 mins  ██████████████▓░░░░░░░░░░   58.61 %
-TypeScript   6 hrs 17 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
-Markdown     2 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-Prisma       31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Ruby         13 hrs 33 mins  ███████████████▒░░░░░░░░░   61.33 %
+TypeScript   5 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   24.32 %
+Markdown     2 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
+HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Prisma       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->

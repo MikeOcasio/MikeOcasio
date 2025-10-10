@@ -105,9 +105,10 @@ Otherwise, you’ll probably find me deep in Rails engines or experimenting with
 <!--START_SECTION:waka-->
 
 ```txt
-Swift        12 mins         ████████████████░░░░░░░░░   63.59 %
-Git Config   5 mins          ███████▓░░░░░░░░░░░░░░░░░   31.13 %
-Ruby         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+TypeScript   14 mins         ██████████████████▒░░░░░░   73.95 %
+Ruby         4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
+YAML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Git          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->

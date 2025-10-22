@@ -105,10 +105,7 @@ Otherwise, you’ll probably find me deep in Rails engines or experimenting with
 <!--START_SECTION:waka-->
 
 ```txt
-Other        29 mins         ██████████████████▓░░░░░░   74.88 %
-TypeScript   8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.53 %
-Markdown     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Ruby         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+TypeScript   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

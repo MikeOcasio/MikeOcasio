@@ -110,11 +110,11 @@ Otherwise, you'll probably find me deep in Rails engines, wrestling with Prisma 
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     5 hrs 35 mins   ██████████▓░░░░░░░░░░░░░░   42.73 %
-Python       3 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   30.34 %
-Ruby         1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-Text         56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-Rust         46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Markdown     3 hrs 40 mins   ██████████░░░░░░░░░░░░░░░   39.45 %
+Python       3 hrs 8 mins    ████████▒░░░░░░░░░░░░░░░░   33.72 %
+Text         56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Rust         41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Ruby         39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
 ```
 
 <!--END_SECTION:waka-->

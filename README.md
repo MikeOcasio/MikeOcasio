@@ -110,9 +110,9 @@ Otherwise, you'll probably find me deep in Rails engines, wrestling with Prisma 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   18 mins         ████████████░░░░░░░░░░░░░   47.96 %
-Markdown     11 mins         ███████▓░░░░░░░░░░░░░░░░░   30.34 %
-Other        8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
+TypeScript   18 mins         █████████████▓░░░░░░░░░░░   54.69 %
+Other        7 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
+Markdown     7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
 ```
 
 <!--END_SECTION:waka-->

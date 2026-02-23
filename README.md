@@ -110,11 +110,11 @@ Otherwise, you'll probably find me deep in Rails engines, wrestling with Prisma 
 <!--START_SECTION:waka-->
 
 ```txt
-AutoHotkey   2 hrs                 ███████████████████░░░░░░   75.86 %
-JSON         25 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-TypeScript   8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Bash         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Git Config   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+AutoHotkey   2 hrs 19 mins         █████████████████████▓░░░   86.59 %
+JSON         13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+TypeScript   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Bash         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Git Config   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->

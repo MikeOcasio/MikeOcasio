@@ -24,102 +24,90 @@
 <br>
 
 <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
+  <img src="https://img.shields.io/badge/Alembic-6BA539?style=for-the-badge&logo=alembic&logoColor=white">
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 </div>
 
 ---
 
 ## 🚀 About Me
-**10-year Army veteran** turned software developer — I swore I'd never work that hard again, and then I discovered production bugs at 2 AM.  
+**10-year Army veteran** turned software developer — I swore I'd never work that hard again, and then I discovered production bugs at 2 AM.
 
-I'm a backend-heavy developer who loves building **scalable systems** with **Ruby on Rails**, experimenting with **Prisma + Next.js**, and making databases actually perform like they're supposed to. Lately, I've been diving deep into **C# .NET** and building some tools that I'm not quite ready to talk about yet (but trust me, they're cool).  
+I build in two worlds: **full-stack web apps** (Rails, Next.js, GraphQL) and **data infrastructure** (Python pipelines, automation tooling, cloud plumbing). Most days I'm writing backend Python with **FastAPI, Celery, and SQLAlchemy** on top of AWS (ECS Fargate, S3, RabbitMQ) — designing systems that pull data from third-party APIs, validate and transform it, and feed it into ML/analytics pipelines downstream.
 
-I've got a mix of professional experience leading engineering teams and personal projects where I get to explore ideas from scratch — because sometimes you just need to build something your way.  
+When I'm not in Python land, I'm shipping **Rails + GraphQL** web apps, or building **Windows automation tooling** (AutoHotkey) that drives legacy desktop software the rest of us would rather pretend doesn't exist.
+
+I care a lot about **data integrity, audit trails, and debuggability** — because future-me (or some poor on-call engineer) is going to need to figure out what went sideways at 2 AM, and I'd like that person to have a fighting chance.
 
 ---
 
-### 🔧 What I’ve Been Up To
+### 🔧 What I've Been Up To
 
 #### **Loghatch (Personal Project)**
-I built **Loghatch** because I got tired of existing tools not doing what I actually needed for biological research logging. Whether you're tracking ants, insects, or your neighbor's suspiciously large garden gnome collection — this thing's got you covered.  
-It's not just another iNaturalist clone — it's flexible, personal, and actually built for people who want control:  
-
-- Custom logbooks & templates that fit *your* research style  
-- Timeline view for tracking entries over time  
-- Collaboration: invite contributors, comment, and build logbooks together  
-- Privacy control: public or private logs  
-- Tags, media, and rich fields so you capture all the details  
-
-**Why Prisma?**  
-This project gave me the excuse to really dive into **Prisma**, and honestly, I'm a convert. I use it to:  
-- Define and evolve schemas without wanting to flip a table  
-- Keep complex queries readable and type-safe in **TypeScript** (future me says thanks)  
-- Batch queries and avoid those sneaky N+1 issues that love to hide in GraphQL APIs  
-- Experiment with performance optimizations on **PostgreSQL** and actually see results  
-
-The stack: **Next.js + Prisma + Node.js + PostgreSQL**.  
+I built **Loghatch** because existing tools didn't do what I actually needed for biological research logging. Whether you're tracking ants, insects, or your neighbor's suspiciously large garden gnome collection — this thing's got you covered. Custom logbooks & templates, timeline view, collaborator invites + comments, and public/private privacy controls. Stack: **Next.js + Prisma + Node.js + PostgreSQL**, with Prisma handling type-safe queries and schema evolution.
 
 ---
 
-#### **Professional Work**
-- At **The Veteran Lending Team (Founding Engineer)**, I guide six dev teams, set up security + dev standards, and try to keep our Rails + Next.js stack from catching fire as we scale. So far, so good.  
-- At **Apple Fritter Technologies**, I lead client projects — designing systems, mentoring devs, and delivering custom Rails/React/GraphQL apps that actually do what they're supposed to.  
-- Previously at **Southern States Toyotalift**, I optimized large Rails apps, slashed query times, and helped keep enterprise-scale dealer systems running smoothly (and quickly).  
+#### **Data Pipeline Architecture (Professional)**
+Designed and built a multi-stage ingest pipeline that pulls data from third-party APIs, validates it against configurable rule sets, transforms it across multiple formats, and lands it in S3 for downstream ML consumption. Includes audit trail snapshots with per-run metadata, force-rerun capability, and automatic deduplication. Copy-on-write worklist versioning for command management. **Python, FastAPI, Celery, PostgreSQL, S3.**
+
+---
+
+#### **Command Validation & Normalization Engine (Professional)**
+Built a TDD validation engine that checks domain-specific query commands against 10+ normalization rules before they hit production — catches syntax issues, type mismatches, and semantic errors that would otherwise silently corrupt data. Includes batch update support, RESTful CRUD endpoints, and an inference layer that determines command types from report metadata so operators don't need to know the internals.
+
+---
+
+#### **Desktop Automation Platform (Professional)**
+Built a Windows automation system (**AutoHotkey v2**) that drives legacy desktop software through GUI automation, processes large-scale datasets, and uploads results to cloud storage. Handles multi-site batch orchestration, error recovery, Excel COM interop, and auto-elevation for privileged processes. Runs on distributed customer hardware across multiple locations.
+
+---
+
+#### **Infrastructure & DevOps (Professional)**
+ECS Fargate deployments with **OpenTofu**, CI/CD with GitHub Actions, Docker multi-stage builds, ALB with OIDC auth, AmazonMQ (RabbitMQ) for task queuing. Immutable Alembic migration strategy with manual deploy controls — because auto-migrating production is a great way to learn new things about yourself.
+
+---
+
+#### **Agent Service (Professional, In Progress)**
+Designing a lightweight polling-based agent that runs on remote Windows machines to execute scheduled jobs (data validation, config pulls, historical report generation). Communicates with a central API over authenticated HTTP. **Python, runs as a native Windows service.**
 
 ---
 
 ### 🛠️ My Current Toolbox
-**Rails, Prisma, Next.js, PostgreSQL, GraphQL, RSpec, Node.js, Docker, AWS, C# .NET**  
+**Primary:** Python, FastAPI, Celery, SQLAlchemy, PostgreSQL, Ruby on Rails, GraphQL, Docker, AWS, OpenTofu/Terraform
+**Active:** Polars, Alembic, Next.js, React, Node.js, Prisma, AutoHotkey v2, GitHub Actions
 
 ---
 
 ### 🌟 Sometimes I Play With
-**Go, Nginx, jQuery, Python, gRPC** (and whatever else seems interesting at 11 PM)  
+**Go, Dash (Plotly), WebSockets, gRPC, Windows service development** (and whatever else seems interesting at 11 PM)
 
 ---
 
 ### ⚡ Fun Fact
-I spent 10 years in the Army as a Wheeled Vehicle Technician 🚛, which taught me two things: how to troubleshoot anything under pressure, and that systems thinking applies to way more than just engines. Also, debugging code is infinitely better than rebuilding transmissions in the Georgia heat.  
+I spent 10 years in the Army as a Wheeled Vehicle Technician 🚛, which taught me two things: how to troubleshoot anything under pressure, and that systems thinking applies to way more than just engines. These days I've traded rebuilding transmissions for rebuilding data pipelines — and honestly, the transmissions were less temperamental.
 
 ---
 
-If you're curious about **Loghatch**, check it out — it's still early, but it's the project I'm most excited about.  
-Otherwise, you'll probably find me deep in Rails engines, wrestling with Prisma queries, or learning C# at unreasonable hours because apparently I enjoy suffering.  
-
- 
-
-## What I've Spent Time Working On Today:
-
-<!--START_SECTION:waka-->
-
-```txt
-Python       1 hr 29 mins          ██████████▒░░░░░░░░░░░░░░   41.58 %
-TOML         1 hr 7 mins           ████████░░░░░░░░░░░░░░░░░   31.37 %
-AutoHotkey   51 mins               ██████░░░░░░░░░░░░░░░░░░░   24.03 %
-Other        5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Bash         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-```
-
-<!--END_SECTION:waka-->
+If you're curious about **Loghatch**, check it out — it's still early, but it's the project I'm most excited about. Otherwise, you'll probably find me deep in a Python pipeline, wrestling with a Rails engine, or explaining to AutoHotkey why clicking the button *should* have worked.
 
 <div id="footer" >
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"/>
 </div>
-
